@@ -7,6 +7,12 @@ The objective of this project is to compare different **feature engineering** me
 
 The main idea is to evaluate how the choice of descriptors influences the quality of the image grouping.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b02db167-e7b5-4fb9-a541-eeec3c521a33" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f3c7d997-8fde-4cd4-b40c-536308f76279" width="250"/>
+  <img src="https://github.com/user-attachments/assets/97f330d1-61b1-4ac5-968d-8f2c21f11571" width="250"/>
+</p>
+
 ---
 
 ## Methodology
