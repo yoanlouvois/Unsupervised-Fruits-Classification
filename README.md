@@ -1,7 +1,7 @@
-# 📊 Projet de Clustering d’Images (Fruits)  
+# Projet de Clustering d’Images (Fruits)  
 **ET4 Informatique — Polytech Paris-Saclay**
 
-## 📝 Description
+## Description
 
 Ce projet a pour objectif de comparer différentes méthodes d’extraction de caractéristiques (**feature engineering**) et de **clustering non supervisé** appliquées à des images de fruits.
 
@@ -9,7 +9,7 @@ L’idée principale est d’évaluer comment le choix des descripteurs influenc
 
 ---
 
-## 🧠 Méthodologie
+## Méthodologie
 
 Le projet repose sur deux étapes principales :
 
