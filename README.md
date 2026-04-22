@@ -51,14 +51,12 @@ An interactive dashboard was developed using **Streamlit**, allowing you to:
     `pip install -r requirements.txt`
 
 ### Step 2: Configure Data Path
-* In the file `src/constant.py`, update the `PATH_DATA` variable with the path to the folder containing the images to be clustered.
+* In the file `constant.py`, update the `PATH_DATA` variable with the path to the folder containing the images to be clustered.
 
 ### Step 3: Run the Clustering Pipeline
-* Navigate to the `src` folder.
 * Execute the following command:  
     `python pipeline.py`
 
 ### Step 4: Launch the Dashboard
-* Navigate to the `src` folder.
 * Execute the following command:  
     `streamlit run dashboard_clustering.py`
